@@ -1,0 +1,1105 @@
+{
+    "nav": {
+        "starPointsMenu": {
+            "taskSystem": "Task System",
+            "rules": "Rules & Rhythm",
+            "templates": "Age Templates",
+            "rewards": "Reward Store",
+            "badges": "Growth Marks",
+            "report": "Weekly Review",
+            "institution": "Institution Edition",
+            "private": "Private Deployment"
+        },
+        "services": "Services",
+        "solutions": "Services",
+        "products": "Products",
+        "pricing": "Engagement",
+        "about": "About",
+        "contact": "Contact",
+        "feedback": "Feedback",
+        "login": "Login",
+        "technology": "Tech",
+        "caseStudies": "Cases",
+        "switchTo": "China / Chinese"
+    },
+    "gatewayHero": {
+        "badge": "Content asset upgrades & system delivery",
+        "title": "Turn content into deliverable digital products.",
+        "subtitle": "We help authors, publishers, and training organizations upgrade books and knowledge content into interactive digital deliverables—then build data loops for iteration and retention.",
+        "ctaPrimary": "Get a proposal",
+        "ctaPrimaryHref": "/contact?interest=general&subject=Content%20asset%20digitization%20consultation",
+        "ctaSecondary": "View case studies",
+        "focus1": "No platform",
+        "focus2": "No generic SaaS",
+        "focus3": "Content upgrade only",
+        "b1": "Content restructuring: structured, modular, interactive rewrite",
+        "b2": "Productization: bootcamps, check-ins, assessments, internal training tools",
+        "b3": "Data & system: traceable, reviewable loops for iteration"
+    },
+    "audience": {
+        "title": "A sustainable digital layer for content creators",
+        "subtitle": "Three typical partners. We run the loop first, then scale what works.",
+        "items": {
+            "0": {
+                "tag": "Authors",
+                "title": "From one-off sales to repeat purchases",
+                "bullets": {
+                    "0": "Book sales decline and margins shrink",
+                    "1": "One-off sales make retention hard",
+                    "2": "Hard to productize without systems and delivery",
+                    "3": "Need a shippable “content upgrade + data loop”"
+                }
+            },
+            "1": {
+                "tag": "Publishers",
+                "title": "Upgrade backlist into operable digital products",
+                "bullets": {
+                    "0": "High ISBN and reprint costs, thin profit",
+                    "1": "Weak digitization capability, unstable revenue",
+                    "2": "Need a reusable product framework and delivery standard",
+                    "3": "Want compliance-friendly user and data retention"
+                }
+            },
+            "2": {
+                "tag": "Training orgs",
+                "title": "Lower delivery cost and improve retention",
+                "bullets": {
+                    "0": "High delivery cost blocks scaling",
+                    "1": "Hard to enable re-training and renewals",
+                    "2": "Insufficient user data for operations",
+                    "3": "Need lightweight systems for camps and internal tools"
+                }
+            }
+        }
+    },
+    "process": {
+        "title": "Delivery process",
+        "subtitle": "Upgrade content into a product, then into a system, then into reusable capability.",
+        "steps": {
+            "1": { "title": "Structure the content", "desc": "Define boundaries and modules for the book/course content and target users." },
+            "2": { "title": "Modularize", "desc": "Split into reusable modules for different product forms and iterations." },
+            "3": { "title": "Design interactions", "desc": "Add check-ins, tasks, assessments, and feedback to drive action rhythm." },
+            "4": { "title": "Ship digitally", "desc": "Deliver as a running system with fast iteration and configurable operations." },
+            "5": { "title": "Data loop & iteration", "desc": "Track behaviors, build review metrics, and support continuous iteration." }
+        }
+    },
+    "solutionsNew": {
+        "title": "Services & delivery",
+        "subtitle": "We deliver content asset upgrades as running systems—no platform illusion, only loops.",
+        "capabilities": {
+            "content": {
+                "title": "Content restructuring",
+                "desc": "Turn content from “text” into configurable modules for interaction and operations.",
+                "bullets": {
+                    "0": "Structure and reorganize backlist content",
+                    "1": "Modularize chapters for reuse",
+                    "2": "Interactive rewrite and assessment design"
+                }
+            },
+            "productize": {
+                "title": "Productization delivery",
+                "desc": "Upgrade content into sellable digital product forms that can iterate.",
+                "bullets": {
+                    "0": "Bootcamps, check-ins, assessments, surveys",
+                    "1": "Configurable content and operations console",
+                    "2": "Multi-platform delivery (web, mini programs, etc.)"
+                }
+            },
+            "system": {
+                "title": "Data & system loops",
+                "desc": "Capture behavior data, define review metrics, and design repeat purchase paths.",
+                "bullets": {
+                    "0": "User behavior tracking and analytics",
+                    "1": "Retention and repeat-revenue paths",
+                    "2": "Reusable frameworks and delivery standards"
+                }
+            }
+        },
+        "models": {
+            "badge": "Business model (0-1)",
+            "title": "Prove the delivery loop, then replicate",
+            "subtitle": "No SaaS subscription in the current stage. Project delivery + revenue share.",
+            "a": { "title": "Single-product rev share", "desc": "Upgrade a book into a digital product: one-time delivery + post-launch revenue share." },
+            "b": { "title": "Enterprise custom delivery", "desc": "Internal bootcamps and training tools: project delivery with acceptance." },
+            "c": { "title": "Upgrade + operations", "desc": "Commission-based operations focused on retention and data loops." },
+            "ctaPrimary": "Contact for a plan",
+            "ctaSecondary": "View cases"
+        }
+    },
+    "hero": {
+        "badge": "Private AI Narrative Engine Released",
+        "title": "Reshaping narratives and connections with intelligent prisms.",
+        "subtitle": "From enterprise-grade private AI infrastructure to consumer-level intelligent narrative products, Arrislink provides trustworthy full-stack technical empowerment.",
+        "cta1": "Explore Enterprise AI",
+        "cta2": "Experience AI Narratives",
+        "stats": {
+            "clients": "Private Deployment",
+            "clientsDesc": "Security First",
+            "privacy": "Local Data",
+            "privacyDesc": "100% Privacy",
+            "stories": "AI Narrative",
+            "storiesDesc": "Warm & Stylish",
+            "support": "Tech Stack",
+            "supportDesc": "K8s & Go"
+        }
+    },
+    "starPointsLanding": {
+        "hero": {
+            "badge": "Star-Points | Family Growth Rule System",
+            "title": "Build Family Synergy, Make Growth Traceable.",
+            "subtitle": "Replace nagging with agreements. Record progress with points. From ages 3 to 15, we have the right growth plan. Weekly reviews that bring love and rules together.",
+            "ctaPrimary": "Start Free",
+            "ctaSecondary": "Institution Edition",
+            "pillars": {
+                "rulesTitle": "Executable Rules",
+                "rulesDesc": "Tasks and boundaries create one consistent language at home.",
+                "ledgerTitle": "Traceable Ledger",
+                "ledgerDesc": "Every reward and penalty is explainable and auditable.",
+                "aiTitle": "Controlled AI Coach",
+                "aiDesc": "AI only helps where it matters: structured logging and weekly reports."
+            }
+        },
+        "how": {
+            "title": "Start in 3 Steps",
+            "subtitle": "Pick a template, execute rules, review every week.",
+            "step1": { "title": "Pick a Template", "desc": "Age-based rule packs, editable for your family.", "b1": "Ages 3–5 / 6–8 / 9–12", "b2": "Tasks, rules, rewards are editable" },
+            "step2": { "title": "Execute", "desc": "Earn points for tasks, deduct for violations, keep it fair.", "b1": "Tasks (+) & Violations (-)", "b2": "Penalty-free coupon as a cooling mechanism" },
+            "step3": { "title": "Weekly Report", "desc": "Turn data into next-week actions and suggestions.", "b1": "Completion, streaks, highlights, friction points", "b2": "3 actionable suggestions from the coach" },
+            "cta": "View Age Templates"
+        },
+        "templates": {
+            "title": "Age-based Templates",
+            "subtitle": "Templates are editable starting points, not restrictions.",
+            "cta": "See Templates",
+            "t35": { "tag": "Ages 3–5", "title": "Self-care & Emotions", "desc": "Brush teeth, tidy toys, express feelings, build rule awareness." },
+            "t68": { "tag": "Ages 6–8", "title": "Routine & Study Habits", "desc": "Wake up, homework, reading, exercise—focus on consistency." },
+            "t912": { "tag": "Ages 9–12", "title": "Self-drive & Responsibility", "desc": "Goal reflection and responsibility ownership for long-term growth." }
+        },
+        "coach": {
+            "title": "A Controlled AI Coach (Not Generic Chat)",
+            "subtitle": "Suggestions are grounded in your rules and data.",
+            "p1": { "title": "Encourager", "desc": "Small wins and positive feedback, less confrontation." },
+            "p2": { "title": "Coach", "desc": "Goal-oriented action lists with trend awareness." },
+            "p3": { "title": "Referee", "desc": "Fairness, consistency, and explainable boundaries." },
+            "p4": { "title": "Storyteller", "desc": "Turn habits into quests and badges for motivation." },
+            "p5": { "title": "Configurable", "desc": "Tone, goals, and output length are configurable—no free-form prompts." },
+            "ctaTag": "Personalized, but controlled",
+            "ctaDesc": "Structured memory + guardrails keep it stable and affordable.",
+            "cta": "Learn AI Coach"
+        },
+        "report": {
+            "title": "Weekly Growth Report (Shareable)",
+            "subtitle": "Know what happened, why, and what to do next.",
+            "ctaPrimary": "See Report Structure",
+            "ctaSecondary": "Engagement & pricing",
+            "card": {
+                "title": "Weekly Report (Sample)",
+                "badge": "Auto-generated · Shareable",
+                "section1": {
+                    "k": "Key Metrics",
+                    "a1": { "k": "Completion", "v": "82%" },
+                    "a2": { "k": "Streak", "v": "5 days" },
+                    "a3": { "k": "Net Points", "v": "+38" }
+                },
+                "section2": { "k": "Highlights & Friction", "i1": "Highlight: Reading streak 4 days", "i2": "Highlight: Tidy-toys improved", "i3": "Friction: Bedtime delays (adjust rule)" },
+                "section3": { "k": "Next-week Actions", "i1": "Split bedtime into 2 smaller tasks and tune points", "i2": "Use 1 penalty-free coupon as cooling valve", "i3": "Let the child co-design one reward weekly" }
+            }
+        }
+    },
+    "offers": {
+        "institution": { "title": "Institution Edition", "subtitle": "After-school / Classes", "description": "Roles, templates, reporting, and parent communication.", "badge": "Optional" },
+        "privateDeploy": { "title": "Private Deployment (Optional)", "subtitle": "Compliance & sovereignty", "description": "Only when you truly need isolation and audit.", "badge": "Optional" },
+        "starPoints": { "title": "Star-Points", "subtitle": "Mini Program", "description": "A family rules loop in practice: commitments, points ledger, rewards, and weekly reviews.", "badge": "Reference" },
+        "smartRead": { "title": "Smart Read", "subtitle": "Web", "description": "Turn scattered content into a searchable knowledge base: capture, structure, chat retrieval, and review tags.", "badge": "Recommended" },
+        "bioPrism": { "title": "Bio-Prism", "subtitle": "Web", "description": "Long-form narrative demo: interview → timeline → draft output for content-asset upgrade scenarios.", "badge": "Demo" },
+        "kidStory": { "title": "Kid-Story", "subtitle": "App", "description": "Multimodal content creation demo: generate deliverable visual content from prompts and assets.", "badge": "Demo" },
+        "smartResume": { "title": "Smart Resume", "subtitle": "Web", "description": "Structuring & template-rendering demo: standardize text into reusable pages and deliverables.", "badge": "Demo" }
+    },
+    "valueProps": {
+        "title": "What we do",
+        "subtitle": "Content restructuring · Productization · Data & system loops",
+        "feature1": {
+            "title": "Content restructuring",
+            "description": "Structure and modularize books/courses with interactive rewrites to support digital product forms."
+        },
+        "feature2": {
+            "title": "Productization delivery",
+            "description": "Upgrade content into bootcamps, check-ins, assessments, surveys, and internal training tools—with iteration built in."
+        },
+        "feature3": {
+            "title": "Data & system loops",
+            "description": "Track user behavior, define review metrics, and design repeat-purchase paths. One system can support multiple products."
+        }
+    },
+    "homeOffers": {
+        "title": "Products & Services",
+        "subtitle": "Current focus: content asset upgrades. Run the loop first, then productize and systemize what works.",
+        "viewProducts": "View products",
+        "viewSolutions": "View solutions",
+        "learnMore": "Learn more",
+        "services": {
+            "content": {
+                "badge": "Restructure",
+                "title": "Content restructuring",
+                "desc": "Structure and modularize books/courses into configurable, reusable content modules.",
+                "href": "/solutions",
+                "image": "/images/content-creation-3d.png"
+            },
+            "productize": {
+                "badge": "Productize",
+                "title": "Productization delivery",
+                "desc": "Upgrade content into camps, check-ins, and assessments with configurable operations.",
+                "href": "/solutions",
+                "image": "/images/smart-chat-3d.png"
+            },
+            "system": {
+                "badge": "Loop",
+                "title": "Data & system loops",
+                "desc": "Build review metrics and repeat-purchase paths with traceable user behavior data.",
+                "href": "/solutions",
+                "image": "/images/tech-stack-viz.png"
+            }
+        },
+        "productsTitle": "Deliverable modules",
+        "productsSubtitle": "Modular capability you can assemble into deliverables.",
+        "showcaseLink": "See showcase projects",
+        "referenceLink": "See reference: Star-Points",
+        "productCta": "View details"
+    },
+    "solutions": {
+        "title": "Tailored Solutions",
+        "subtitle": "AI services customized for diverse needs.",
+        "pageTitle": "Tailored Solutions",
+        "pageSubtitle": "AI services customized for diverse needs.",
+        "viewAll": "View All Solutions",
+        "learnMore": "Learn More",
+        "privateAI": {
+            "title": "Enterprise Knowledge Base",
+            "description": "Transform documents into conversational assets. Employees ask AI for business knowledge directly—data never leaves the intranet, safe and efficient."
+        },
+        "contentAutomation": {
+            "title": "Creator Assistance Engine",
+            "description": "Inspiration for novelists and media creators. Set character personalities and backgrounds, and let AI assist in plotting, maintaining a unique narrative style."
+        },
+        "dataAnalytics": {
+            "title": "Personal/Family AI Biography",
+            "description": "Record precious memories for you and your family. AI guides you to recall the past and organizes it into beautifully written biographies to cherish forever."
+        },
+        "devops": {
+            "title": "DevOps & Cloud Native",
+            "description": "Scalable infrastructure management for the AI era."
+        }
+    },
+    "solutionsPage": {
+        "institution": {
+            "badge": "Institution Edition",
+            "title": "Star-Points for After-school / Classes",
+            "desc": "Standardize tasks, rules, rewards, and weekly reviews—make school-home collaboration simple.",
+            "b1": "Class tasks & points system",
+            "b2": "Reports & weekly review loop",
+            "b3": "Parent communication & collaboration",
+            "b4": "Optional compliance & audit"
+        },
+        "private": {
+            "badge": "Private Deployment (Optional)",
+            "title": "Compliance, Isolation, and Deployment Control",
+            "desc": "Only when you truly need data sovereignty and auditability. Delivered in stages, no empty promises.",
+            "b1": "Staged delivery",
+            "b2": "Isolation & audit",
+            "b3": "RBAC access control",
+            "b4": "Go-live & rollback"
+        },
+        "institutionSection": {
+            "title": "What Institution Edition solves",
+            "subtitle": "Not more features—one consistent execution standard with lower collaboration cost.",
+            "c1": { "title": "Role-based access", "desc": "Teacher/parent/child roles for clear responsibilities." },
+            "c2": { "title": "Template rollout", "desc": "Publish org templates; families tweak instead of starting from zero." },
+            "c3": { "title": "Class review", "desc": "Completion rates, friction points, and suggestions for teaching and communication." },
+            "ctaPrimary": "Talk to Us",
+            "ctaSecondary": "Engagement & pricing"
+        },
+        "privateSection": {
+            "title": "How private deployment works (staged)",
+            "subtitle": "Keep data in your hands first, then increase on-prem inference gradually.",
+            "s0": { "tag": "Stage 0", "title": "Private data + cloud inference", "desc": "Docs/vector store/logs stay on your side; inference calls cloud models with minimal context." },
+            "s1": { "tag": "Stage 1", "title": "Local embeddings + cloud model", "desc": "Embeddings run inside your network; cloud models only receive necessary snippets." },
+            "s2": { "tag": "Stage 2", "title": "Local embeddings + local LLM", "desc": "Inference also runs on-prem, with observability, audit, and cost controls." },
+            "ctaDetails": "View Full Plan",
+            "ctaPrimary": "Contact for Private"
+        }
+    },
+    "solutionItems": {
+        "privateAI": {
+            "title": "Private AI Model Deployment",
+            "description": "Worried about public AI APIs leaking secrets? We build fully controllable on-prem LLM environments on K8s. Data never leaves your network.",
+            "highlight": "Core Solution"
+        },
+        "knowledgeBase": {
+            "title": "Enterprise Smart Knowledge Base",
+            "description": "Transform your docs, wikis, and chats into conversational AI assets. Employees ask questions, AI delivers answers. 50%+ efficiency boost.",
+            "highlight": ""
+        },
+        "enterpriseWeb": {
+            "title": "Enterprise Website + AI Customer Service",
+            "description": "Cost-effective digital upgrade. In one weekend, get a beautiful website and a 24/7 AI receptionist that auto-captures leads and answers queries.",
+            "highlight": "Quick Win"
+        },
+        "security": {
+            "title": "Enterprise-Grade Security",
+            "description": "Built-in PII masking, RBAC, and audit logs. Meet GDPR, SOC2, and internal security requirements.",
+            "highlight": ""
+        },
+        "fineTuning": {
+            "title": "Model Fine-Tuning & Training",
+            "description": "Fine-tune open-source models on your industry data. Build an AI assistant that truly understands your business jargon.",
+            "highlight": ""
+        },
+        "devops": {
+            "title": "DevOps & Cloud Native Managed Services",
+            "description": "Leverage our deep K8s/Go expertise for production-grade cluster setup, monitoring, CI/CD, and GitOps operations.",
+            "highlight": "Tech Foundation"
+        },
+        "consulting": {
+            "title": "AI Enablement Consulting & Training",
+            "description": "Enterprise-grade AI training and consulting services. Help teams master Prompt Engineering, RAG architecture, and private deployment best practices.",
+            "highlight": ""
+        }
+    },
+    "privateAIPage": {
+        "badge": "Enterprise Security",
+        "cta": "Schedule Consultation",
+        "securityTitle": "Security is Non-Negotiable",
+        "securityDesc": "Public AI APIs are convenient but pose significant risks for enterprise intellectual property. Our Private AI solution ensures your data never leaves your VPC.",
+        "sovereigntyTitle": "Data Sovereignty",
+        "sovereigntyDesc": "Complete control over training data and inference logs.",
+        "complianceTitle": "Compliance Ready",
+        "complianceDesc": "Meet GDPR, HIPAA, and internal security audit requirements.",
+        "diagramFirewall": "Your Firewall",
+        "diagramSecureZone": "Secure Intranet Zone",
+        "diagramDataCenter": "Enterprise Data",
+        "diagramInference": "Private LLM",
+        "diagramAPI": "Secure API",
+        "diagramNote": "* Data never leaves your infrastructure",
+        "stageTitle": "How private deployment works: staged delivery",
+        "stageSubtitle": "Keep data in your hands first, then increase on-prem inference over time.",
+        "stage0": { "tag": "Stage 0", "title": "Private data + cloud inference", "desc": "Docs/vector store/logs stay on your side; inference calls cloud models with minimal context." },
+        "stage1": { "tag": "Stage 1", "title": "Local embeddings + cloud model", "desc": "Embeddings run inside your network; cloud models only receive necessary snippets." },
+        "stage2": { "tag": "Stage 2", "title": "Local embeddings + local LLM", "desc": "Inference also runs on-prem, with observability, audit, and cost controls." },
+        "reliabilityTitle": "How to validate reliability",
+        "reliability": {
+            "b1": "Isolation and access control: prevent cross-tenant or cross-org leakage",
+            "b2": "Prompt red-team & boundary testing: reduce hallucination and overreach answers",
+            "b3": "Citations and eval-set regression: traceable answers and continuous improvement"
+        },
+        "boundaryTitle": "Boundaries we commit to",
+        "boundaryDesc": "We do not promise “magic private AI”. We promise staged delivery, verifiable security and usability, with explicit cost and performance constraints."
+    },
+    "devopsPage": {
+        "badge": "DevOps & Cloud Native",
+        "cta": "Contact Tech Team",
+        "title": "DevOps & Cloud Native",
+        "subtitle": "Infrastructure as Code, Automated for Speed.",
+        "features": {
+            "k8sTitle": "Kubernetes Management",
+            "k8sDesc": "Production-grade K8s cluster setup, monitoring, and auto-scaling.",
+            "cicdTitle": "CI/CD Pipelines",
+            "cicdDesc": "Automated build, test, and deployment workflows using GitHub Actions or GitLab CI.",
+            "iacTitle": "Infrastructure as Code",
+            "iacDesc": "Manage your entire cloud footprint with Terraform or Pulumi."
+        }
+    },
+    "technologyPage": {
+        "badge": "Our Vision",
+        "title": "Built for the Future, Deployed Today",
+        "subtitle": "We are not just chasing trends. We are engineering a solid foundation for the AI-native future.",
+        "cta": "View GitHub"
+    },
+    "smartResumePage": {
+        "badge": "Structuring demo",
+        "title": "Structuring & template engine",
+        "subtitle": "Standardize text into reusable modules and page templates for productization and deliverables.",
+        "cta": "Get a proposal",
+        "features": {
+            "title": "Intelligent Features",
+            "format": "Automated Formatting",
+            "formatDesc": "Perfect layout every time.",
+            "polish": "AI Content Polish",
+            "polishDesc": "Professional editing instantly.",
+            "gap": "Skill Gap Analysis",
+            "gapDesc": "Know what you are missing."
+        }
+    },
+    "techStack": {
+        "title": "Built on Solid Foundations",
+        "subtitle": "We don't just use AI; we engineer robust, scalable systems that power it. From low-level infrastructure to high-level interaction.",
+        "cloud": "Cloud Native & Infra",
+        "backend": "Backend Performance",
+        "frontend": "Modern Frontend",
+        "mobile": "Mobile & Mini Program",
+        "aiData": "AI & Data"
+    },
+    "roadmap": {
+        "title": "Strategic Roadmap",
+        "subtitle": "Our journey from specialized tools to a ubiquitous intelligent foundation.",
+        "phase1": {
+            "title": "Phase 1: Agile Empowerment",
+            "subtitle": "Current Focus",
+            "year": "2024-2025",
+            "desc": "Rapidly deploying specialized AI tools (Bio-Prism, Kid-Story) and establishing enterprise trust with private AI deployments.",
+            "items": [
+                "Private AI Base",
+                "Narrative Engine v1",
+                "Enterprise Quick-Wins"
+            ]
+        },
+        "phase2": {
+            "title": "Phase 2: Platform Foundation",
+            "subtitle": "Next Step",
+            "year": "2025-2026",
+            "desc": "Consolidating core capabilities into a unified PaaS layer. Enabling third-party developers to build on our narrative engine.",
+            "items": [
+                "Data-API Forge",
+                "Marketing Automation SaaS",
+                "Open API SDK"
+            ]
+        },
+        "phase3": {
+            "title": "Phase 3: Ecosystem Deep Dive",
+            "subtitle": "Future Vision",
+            "year": "2027+",
+            "desc": "Building vertical ecosystems for Family Education and Enterprise Intelligence. A fully autonomous AI agent network.",
+            "items": [
+                "Family AI Ecosystem",
+                "AI DevOps Cloud",
+                "Autonomous Agents"
+            ]
+        }
+    },
+    "caseStudiesPage": {
+        "badge": "Case studies",
+        "title": "Turn mechanisms into systems, and systems into reusable capability",
+        "subtitle": "Practical loops we’ve built and refined—from mechanism design and tracking to review and iteration.",
+        "cta": "View incubating Star-Points",
+        "case1": {
+            "title": "From 0 to usable in 10 minutes: enable age templates",
+            "category": "Star-Points · Activation",
+            "stat": "Fast start",
+            "desc": "Enable first, then tune points and frequency. Turn “what to do” into shared language quickly.",
+            "link": "/products/star-points#templates"
+        },
+        "case2": {
+            "title": "Not just posting tasks: claim and settle",
+            "category": "Star-Points · Commitment",
+            "stat": "Less arguing",
+            "desc": "Tasks become traceable commitments: who claimed it, when it was done, who confirmed it.",
+            "link": "/products/star-points#task-system"
+        },
+        "case3": {
+            "title": "High-value motivation with low cost",
+            "category": "Star-Points · Reward Store",
+            "stat": "Sustainable",
+            "desc": "Manage a reward pool with budget, frequency, and cooldown—motivation that lasts without overspending.",
+            "link": "/products/star-points/rewards-sample"
+        },
+        "case4": {
+            "title": "Weekly report + 5-minute review: make review a rhythm",
+            "category": "Star-Points · Review Loop",
+            "stat": "Trend-first",
+            "desc": "Fixed structure: what happened, why, what’s next. Turn emotional debates into actionable adjustments.",
+            "link": "/products/star-points/report-sample"
+        }
+    },
+    "bioPrismPage": {
+        "hero": {
+            "badge": "Writing demo",
+            "title": "Long-form narrative & drafting",
+            "subtitle": "Interview → timeline → draft output. A demo pipeline for upgrading backlist into deliverable digital content assets.",
+            "cta1": "Get a proposal",
+            "cta2": "View cases"
+        },
+        "howItWorks": {
+            "title": "How Bio-Prism Works",
+            "subtitle": "From conversation to keepsake in three simple steps.",
+            "step1Title": "Interactive Interview",
+            "step1Desc": "No writing required. Just chat with our AI biographer. It asks thought-provoking questions to help you recall details.",
+            "step2Title": "Intelligent Crafting",
+            "step2Desc": "Our \"StoryCraft\" engine weaves your answers into a coherent, emotive narrative, preserving your unique voice.",
+            "step3Title": "Publish & Cherish",
+            "step3Desc": "Generate a beautiful digital flipbook or a print-ready PDF. Add photos to complete your legacy."
+        },
+        "showcase": {
+            "title": "More Than Just Text",
+            "desc": "Bio-Prism creates a multimedia experience. It's not just about what happened; it's about how it felt.",
+            "feature1": "Timeline Generation",
+            "feature2": "Photo Restoration & Enhancement",
+            "feature3": "Multi-language Support",
+            "cta": "Download Sample Biography"
+        }
+    },
+    "kidStoryPage": {
+        "hero": {
+            "badge": "Multimodal demo",
+            "title": "Visual content generation & delivery",
+            "subtitle": "Generate deliverable visual content from prompts and assets with controllable styles—showcasing productization-ready output.",
+            "cta1": "Get a proposal",
+            "cta2": "View cases"
+        },
+        "preview": {
+            "title": "Interactive Story Time",
+            "subtitle": "Generate a unique interactive picture book in just 3 minutes. Click below to flip pages.",
+            "lockedTitle": "神秘的礼物",
+            "lockedTitleEn": "The Surprise",
+            "gateTitle": "Get Full Book Access",
+            "gateDesc": "To read the full story and download the PDF, please leave your contact information and we will enable trial access.",
+            "gateCta": "Contact for Trial",
+            "gateBack": "Go Back"
+        },
+        "steps": {
+            "title": "Dream it. Write it. See it.",
+            "subtitle": "The easiest way to become a storyteller for your kids.",
+            "step1Title": "1. Choose a Theme",
+            "step1Desc": "Dinosaurs in space? A princess who codes? You decide the adventure.",
+            "step2Title": "2. Pick a Style",
+            "step2Desc": "Watercolor, 3D Disney style, or classic hand-drawn. Consistent characters guaranteed.",
+            "step3Title": "3. Blast Off!",
+            "step3Desc": "Get a complete, beautifully formatted digital storybook—ready for iPad reading or printing."
+        },
+        "gallery": {
+            "title": "Made with Kid-Story",
+            "read": "Read",
+            "items": {
+                "title1": "Space Adventure",
+                "title2": "Magic Forest",
+                "title3": "Moon Fishing",
+                "title4": "Monster Friends"
+            },
+            "readFull": "Read Full Story",
+            "modalDesc": "This is a sample generated story showcasing our AI capabilities. Each book is unique and tailored to the child's interests."
+        },
+        "userStories": {
+            "title": "Loved by Parents & Kids",
+            "subtitle": "Join thousands of families creating magical moments.",
+            "story1": {
+                "title": "Bedtime Reinvented",
+                "desc": "\"The iPad used to be for games, now it's for our special story time. Yueyue loves seeing herself as the hero!\"",
+                "author": "Mrs. Zhang, Mother of 6-year-old Yueyue"
+            },
+            "story2": {
+                "title": "Proud Little Author",
+                "desc": "\"My son took his printed book to school for show-and-tell. He was so proud to say 'I made this with AI'!\"",
+                "author": "Mr. Li, Father of 8-year-old Haohao"
+            }
+        }
+    },
+    "products": {
+        "pageTitle": "Products",
+        "pageSubtitle": "Content-asset upgrades: turn content into digital products people come back to.",
+        "modulesSubtitle": "Composable, reusable, and iterative modules we can deliver.",
+        "showcaseSubtitle": "Showcase projects that demonstrate delivery forms and outcomes.",
+        "referenceSubtitle": "Reference implementations that preserve how we build “loops”.",
+        "learnMore": "Learn More",
+        "featured": "Featured",
+        "contact": "Contact",
+        "categories": {
+            "modules": "Deliverable modules",
+            "showcase": "Showcase projects",
+            "reference": "Reference"
+        }
+    },
+    "pricing": {
+        "title": "Engagement & pricing",
+        "subtitle": "We don’t publish a fixed price list. Pricing depends on scope, complexity, and compliance needs—usually starting with a small pilot.",
+        "ctaPrimary": "Get a proposal",
+        "ctaPrimaryHref": "/contact?interest=general&subject=Engagement%20and%20pricing%20inquiry",
+        "ctaSecondary": "See deliverable modules",
+        "note": "We align on deliverables, acceptance criteria, and iteration cadence before quoting.",
+        "how": {
+            "title": "How we quote",
+            "subtitle": "We price by deliverables and scope—not by feature counts.",
+            "steps": {
+                "0": { "title": "Clarify scope and goals", "desc": "Align on problem, target users, delivery form, and boundaries." },
+                "1": { "title": "Propose an engagement", "desc": "Define modules, milestones, and acceptance criteria, including optional items (private/hosting)." },
+                "2": { "title": "Iterate from small to large", "desc": "Start with a pilot, validate the loop, then expand scope when it works." }
+            }
+        },
+        "what": {
+            "title": "What you get",
+            "subtitle": "Delivered as a running system that can be iterated and reviewed.",
+            "items": {
+                "0": { "title": "Content restructuring", "desc": "Structured, modular content with clear boundaries and reuse." },
+                "1": { "title": "Productization delivery", "desc": "A shippable web/mini-program experience with configuration and iteration." },
+                "2": { "title": "Data & system loops", "desc": "Tracking, metrics, and review paths to support continuous iteration." },
+                "3": { "title": "Compliance & deployment options", "desc": "Private/hybrid deployment, audit, and isolation when needed." }
+            }
+        },
+        "engagement": {
+            "title": "Typical engagements",
+            "subtitle": "Scope varies by project. These describe common delivery forms.",
+            "items": {
+                "0": {
+                    "title": "Pilot",
+                    "desc": "Validate direction and acceptance criteria with a smallest usable loop.",
+                    "bullets": { "0": "One core scenario", "1": "Define modules and acceptance", "2": "Ship fast and review" }
+                },
+                "1": {
+                    "title": "Delivery",
+                    "desc": "Modularize capability into a system that can be iterated sustainably.",
+                    "bullets": { "0": "Configurable content & ops", "1": "Metrics and review cadence", "2": "Reliability and observability" }
+                },
+                "2": {
+                    "title": "Compliance",
+                    "desc": "When required, strengthen isolation and audit with staged rollout.",
+                    "bullets": { "0": "Staged private path", "1": "Access control & audit", "2": "Cost/performance constraints" }
+                }
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "subtitle": "We focus on delivery boundaries and acceptance criteria.",
+            "items": {
+                "0": { "q": "Why no fixed price list?", "a": "Scope, content scale, delivery form, and compliance needs vary widely. We quote by deliverables, milestones, and acceptance criteria to avoid misleading pricing." },
+                "1": { "q": "What’s needed to ship a first version?", "a": "Clear content boundaries and target users, a defined interaction rhythm, plus minimal tracking and review metrics. We usually start with a pilot." },
+                "2": { "q": "Do you support private or hybrid deployment?", "a": "Yes, when needed. We roll it out in stages: keep data on your side first, then increase inference and audit capability." },
+                "3": { "q": "How do we start?", "a": "Send context and goals via the contact page. We’ll return a draft engagement proposal (modules, milestones, acceptance criteria) to align before implementation." }
+            }
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "We look forward to hearing from you.",
+        "email": "Email",
+        "office": "Office",
+        "address": "No. 9, Anningzhuang West 3rd Street, Haidian District, Beijing",
+        "form": {
+            "name": "Name",
+            "namePlaceholder": "Your Name",
+            "email": "Email",
+            "emailPlaceholder": "you@example.com",
+            "interest": "Topic",
+            "subject": "Subject",
+            "subjectPlaceholder": "Enter subject",
+            "message": "Message",
+            "messagePlaceholder": "How can we help you?",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "success": "Sent successfully! We'll reply soon.",
+            "successTitle": "Submitted",
+            "successMessage": "Thank you for contacting us. We'll get back to you soon.",
+            "error": "Failed to send, please try again later.",
+            "sendAnother": "Send another",
+            "interests": {
+                "general": "General Inquiry",
+                "contentUpgrade": "Content restructuring",
+                "productize": "Productization delivery",
+                "system": "Data & system loops",
+                "feedback": "Product/website feedback",
+                "partnership": "Partnership"
+            },
+            "subjectSuggestions": {
+                "general": [
+                    "Product inquiry",
+                    "Company information",
+                    "Other questions"
+                ],
+                "contentUpgrade": [
+                    "Structure and reorganize content",
+                    "Modularize chapters for reuse",
+                    "Interactive rewrites and assessments"
+                ],
+                "productize": [
+                    "Bootcamp/check-in productization",
+                    "Operations console and configuration",
+                    "Delivery plan and quote"
+                ],
+                "system": [
+                    "Tracking and review metrics",
+                    "Retention paths and metrics",
+                    "Private/hybrid deployment needs"
+                ],
+                "feedback": [
+                    "Website issue",
+                    "Product suggestion",
+                    "Usability improvement"
+                ],
+                "partnership": [
+                    "Partnership inquiry",
+                    "Co-marketing / channels",
+                    "Technical collaboration",
+                    "Procurement"
+                ]
+            },
+            "subjectHint": "Select or customize subject"
+        }
+    },
+    "login": {
+        "title": "Sign In",
+        "subtitle": "Welcome back",
+        "email": "Sign in with Email",
+        "wechat": "Sign in with WeChat",
+        "google": "Sign in with Google",
+        "github": "Sign in with GitHub",
+        "separator": "OR",
+        "phoneLogin": "Sign in with Phone",
+        "noAccount": "Don't have an account?",
+        "register": "Register"
+    },
+    "register": {
+        "title": "Create Account",
+        "subtitle": "Join Arrislink today",
+        "google": "Sign up with Google",
+        "github": "Sign up with GitHub",
+        "wechat": "Sign up with WeChat",
+        "separator": "OR",
+        "emailPlaceholder": "Email address",
+        "passwordPlaceholder": "Password",
+        "confirmPasswordPlaceholder": "Confirm password",
+        "phonePlaceholder": "Phone number",
+        "codePlaceholder": "Verification code",
+        "sendCode": "Send Code",
+        "registerWithEmail": "Create Account",
+        "registerWithPhone": "Register with Phone",
+        "haveAccount": "Already have an account?",
+        "login": "Sign In"
+    },
+    "about": {
+        "title": "About Arrislink",
+        "subtitle": "An engineering team focused on content asset upgrades",
+        "missionTitle": "Positioning",
+        "missionP1": "Founded in 2017, we’ve delivered web products, data systems, and cloud-native infrastructure. We focus on shipping, reliability, and sustainable iteration.",
+        "missionP2": "In the current stage, we focus on content asset upgrades: turning books and knowledge content into interactive digital deliverables, then building data loops for iteration and retention.",
+        "fastFacts": "At a Glance",
+        "fastFactsSubtitle": "Key facts about Arrislink",
+        "founded": "Founded",
+        "foundedValue": "2017",
+        "focus": "Current stage",
+        "focusValue": "Content digitization & delivery loops",
+        "techStack": "Delivery capabilities",
+        "techStackValue": "Content engineering · Product engineering · System engineering · Security · AI engineering",
+        "boundary": {
+            "title": "Capability boundary",
+            "subtitle": "We focus on running systems with clear loops and clear delivery scope.",
+            "content": { "title": "Content restructuring", "desc": "Structure and modularize content, reorder chapters, and rewrite for interaction." },
+            "productize": { "title": "Productization", "desc": "Upgrade content into camps, check-ins, assessments, surveys, and internal training tools." },
+            "system": { "title": "System capability", "desc": "Configurable content systems, user behavior tracking, analytics, and reusable frameworks." }
+        },
+        "principles": {
+            "items": {
+                "0": "Focus on content-asset delivery",
+                "1": "Light ops, strong systems",
+                "2": "Ship the smallest usable loop",
+                "3": "Go deep before scaling"
+            }
+        },
+        "stats": {
+            "founded": "2017",
+            "foundedLabel": "Founded",
+            "foundedDesc": "Delivery-first engineering",
+            "aiPivot": "Now",
+            "aiPivotLabel": "Stage focus",
+            "aiPivotDesc": "Content upgrades with delivery loops",
+            "products": "0-1",
+            "productsLabel": "Current stage",
+            "productsDesc": "Run the loop, then replicate",
+            "privacy": "Optional",
+            "privacyLabel": "Delivery form",
+            "privacyDesc": "Private/hybrid deployment when needed",
+            "efficiency": "Delivery Efficiency",
+            "efficiencyDesc": "Engineering practices reduce repetitive work",
+            "uptime": "Reliability",
+            "uptimeDesc": "Observable, rollback-ready, and maintainable",
+            "growth": "Engineering Practice"
+        }
+    },
+    "starPointsPage": {
+        "hero": {
+            "badge": "Family Growth Platform",
+            "title": "Star-Points",
+            "subtitle": "Replace nagging with agreements. Record progress with points. From ages 3 to 15, we have the right growth plan. Weekly reviews that bring love and rules together.",
+            "cta1": "Start Free",
+            "cta2": "Learn More"
+        },
+        "sections": {
+            "taskSystem": {
+                "title": "Task System: Make commitments count, make persistence visible",
+                "subtitle": "Use 'must-do' to build baselines, use 'quests' to unlock potential. Say goodbye to nagging, let children learn to be responsible for themselves.",
+                "optional": { "title": "Optional Tasks", "desc": "Post or claim tasks. Encourage the child to proactively choose and complete." },
+                "must": { "title": "Must-do List", "desc": "Time-window based basics. Must be completed on time, with a healthy remediation path." },
+                "quest": { "title": "Quests", "desc": "7/14-day short cycles. Earn milestones and badges, build sustainable momentum." },
+                "flow": {
+                    "title": "From commitment to achievement",
+                    "s1": "Post",
+                    "s2": "Claim",
+                    "s3": "Submit",
+                    "s4": "Confirm",
+                    "s5": "Settle",
+                    "note": "A task is a traceable commitment: who claimed it, when it was done, and who confirmed it."
+                }
+            },
+            "rulesWindow": {
+                "title": "Rules & Rhythm: Turn disputes into consensus",
+                "subtitle": "Two layers: boundaries (don’t do) and basics (must do). Time windows reduce daily explaining.",
+                "rules": { "title": "Boundaries (don’t do)", "desc": "Record triggers with explainable consequences—avoid emotional escalation." },
+                "windows": { "title": "Time Windows (when to do)", "desc": "Morning/Noon/Evening/Weekend rhythm—clear expectations for everyone." },
+                "remedy": { "title": "Remediation: Give mistakes a chance to be corrected", "desc": "Not just punishment: make-up, downgrade completion, and rule tuning for next week." },
+                "templates": { "badge": "Enable fast", "title": "Age Templates: 0 to usable in 10 minutes", "subtitle": "Enable first, then tweak points and frequency for your family.", "cta": "See Age Templates" }
+            },
+            "rankingBadges": {
+                "title": "Growth Marks: Record every shining moment",
+                "subtitle": "Default to family/small groups, and focus on trends—compete with yourself first.",
+                "leaderboard": {
+                    "badge": "Leaderboards",
+                    "title": "Family mini-board: See each other's efforts",
+                    "desc": "Help guardians see differences in execution and give kids visible positive feedback.",
+                    "b1": "Family/class small scope by default (no global ranking)",
+                    "b2": "Trend-first: streak, completion rate, rule stability",
+                    "b3": "Self-compare view to reduce comparison anxiety"
+                },
+                "badges": {
+                    "badge": "Badges",
+                    "title": "Badges are behavior evidence, not decoration",
+                    "desc": "Make persistence, initiative, and review habits visible and shareable.",
+                    "i1": "Streak",
+                    "i2": "Claim rate (initiative)",
+                    "i3": "Rule stability (violations down)",
+                    "i4": "Review habit (weekly review on time)"
+                }
+            },
+            "rewardStore": {
+                "title": "Reward Store: sustainable motivation with a family budget",
+                "subtitle": "No random promises, no heavy operations. Use budget and frequency to keep rewards sustainable.",
+                "q1": "Experiences: amusement park / movie / special dinner",
+                "q2": "Physical: blind box / small toy",
+                "q3": "Privileges: extra screen time / choose weekend activity",
+                "q4": "Relationship: 1:1 time / build a project together",
+                "b1": "Weekly budget and cooldown: avoid overspending and bargaining",
+                "b2": "Fully customizable: match each family's reality",
+                "b3": "Child participates in choosing: autonomy and cooperation",
+                "ctaSample": "See Reward Store Sample",
+                "ctaPricing": "Engagement & pricing",
+                "card": {
+                    "title": "Smarter rewards, not more expensive rewards",
+                    "desc": "A reward works when it’s redeemable, predictable, and sustainable—not when it’s a one-off刺激.",
+                    "i1": "Low: ice cream / stickers / +15 min free time",
+                    "i2": "Mid: Pizza Hut / a blind box / weekend choice right",
+                    "i3": "High ritual: amusement park / family trip / a dedicated day"
+                }
+            },
+            "tools": {
+                "title": "Props & Kits: Add some warmth to rules",
+                "subtitle": "Use 'immunity cards' to embrace occasional mistakes, use 'review cards' to open deep conversations. Make rules no longer cold.",
+                "b1": "Waiver card: keep the record, waive one deduction",
+                "b2": "Review card: trigger a guided review / report add-on (optional AI)",
+                "b3": "Redeem tickets: convert growth points to rewards",
+                "card": { "title": "Fairness needs auditability", "desc": "Each tool records time, reason, and approver—better collaboration at home." }
+            },
+            "theory": {
+                "title": "Scientific Parenting: Make love wiser",
+                "subtitle": "Ground daily behavior guidance in practical family education principles.",
+                "pillars": {
+                    "title": "Three key elements",
+                    "b1": "Clear rules: agreements, timely feedback, traceable records",
+                    "b2": "Sustainable motivation: choice, progress, and support",
+                    "b3": "Reviewable rhythm: time windows, rewards, weekly review"
+                },
+                "assessments": {
+                    "title": "Light assessments: no diagnosis, only recommendations",
+                    "a1": { "title": "Temperament / traits", "desc": "Recommend coach style: encourager / referee / storyteller / empath." },
+                    "a2": { "title": "Execution style", "desc": "Identify procrastination/distraction triggers and suggest task mix and windows." },
+                    "a3": { "title": "Reward preference", "desc": "Experience / physical / privilege / relationship—suggest store structure." },
+                    "output": "Outputs must become actions: template choice, task mix, reward bundle, review focus."
+                },
+                "note": "Assessments provide tendencies and suggestions only—no medical/psychological diagnosis."
+            },
+            "rules": {
+                "title": "Rules & Points: turn chaos into execution",
+                "subtitle": "Tasks (+), violations (-), and a traceable ledger for fair and explainable parenting.",
+                "cards": {
+                    "tasks": { "title": "Tasks (Points+)", "desc": "Brush teeth, reading, exercise, tidy up—set frequency and points." },
+                    "constraints": { "title": "Boundaries (Points-)", "desc": "Clear rules reduce emotional escalation and inconsistency." },
+                    "ledger": { "title": "Ledger (Auditable)", "desc": "Every point change has a reason and history for collaboration." }
+                }
+            },
+            "templates": {
+                "title": "Age Templates: enable first, then tweak",
+                "subtitle": "Different ages need different rule packs. Templates get you from 0 to usable fast.",
+                "t35": { "tag": "Ages 3–5", "title": "Self-care & Emotions", "desc": "Build rule awareness and positive feedback loops." },
+                "t68": { "tag": "Ages 6–8", "title": "Routine & Study Habits", "desc": "Focus on consistency and reviewability." },
+                "t912": { "tag": "Ages 9–12", "title": "Self-drive & Responsibility", "desc": "Long-term goals and responsibility ownership." }
+            },
+            "coupon": {
+                "title": "Penalty-Free Coupon: a cooling mechanism",
+                "subtitle": "Keep the event record, but allow a one-time penalty waiver to de-escalate conflict.",
+                "b1": "Redeem with points as a negotiation tool",
+                "b2": "Every usage is auditable: time, event, approver",
+                "b3": "Weekly limit recommended to avoid abuse",
+                "card": { "title": "Rewards", "desc": "Start with custom family rewards. No marketplace needed." }
+            },
+            "coach": {
+                "title": "AI Coach: personalized, but controlled",
+                "subtitle": "AI must be grounded in your rules and data. No generic companion chat.",
+                "p1": { "title": "Encourager", "desc": "Small wins and positive feedback." },
+                "p2": { "title": "Coach", "desc": "Goal-oriented action lists with trends." },
+                "p3": { "title": "Referee", "desc": "Fairness, consistency, and explainable boundaries." },
+                "p4": { "title": "Storyteller", "desc": "Turn habits into quests and badges." },
+                "p5": { "title": "Configurable", "desc": "Tone, goals, output length—no free-form prompts." }
+            },
+            "report": {
+                "title": "Weekly Report: what happened, why, and what’s next",
+                "subtitle": "Share with the other guardian or for school-home communication.",
+                "ctaSample": "View Report Sample",
+                "card": {
+                    "title": "Weekly Report (Sample)",
+                    "badge": "Auto-generated · Shareable",
+                    "kpis": { "title": "Key Metrics", "i1": "Completion: 82%", "i2": "Streak: 5 days", "i3": "Net points: +38" },
+                    "highlights": { "title": "Highlights & Friction", "i1": "Highlight: reading streak 4 days", "i2": "Highlight: tidy-toys improved", "i3": "Friction: bedtime delays (tune rules)" },
+                    "next": { "title": "Next-week Actions", "i1": "Split bedtime into 2 smaller tasks and tune points", "i2": "Use 1 penalty-free coupon as cooling valve", "i3": "Co-design one reward weekly with the child" }
+                }
+            },
+            "cta": { "pricing": "Engagement & pricing" }
+        },
+        "features": {
+            "title": "Key Features",
+            "subtitle": "Making family education smarter and more fun",
+            "voice": {
+                "title": "Voice Recording",
+                "desc": "No typing needed. Just say 'Leo tidied up his toys today' and AI auto-records it."
+            },
+            "rules": {
+                "title": "Smart Rule Recommendations",
+                "desc": "AI recommends personalized point rules based on child's age and parenting focus areas."
+            },
+            "report": {
+                "title": "AI Weekly Reports",
+                "desc": "Weekly visual growth reports with point trends, behavior analysis, and parenting tips."
+            },
+            "reward": {
+                "title": "Rewards Store",
+                "desc": "Redeem points for rewards. Ultimate prize: a custom AI storybook! Links to Kid-Story."
+            }
+        },
+        "status": {
+            "title": "Product Status",
+            "badge": "🚀 Coming Soon",
+            "desc": "AI Growth Star is coming soon and will launch as a WeChat Mini Program. Leave your contact info and we'll notify you when it's ready!"
+        }
+    },
+    "starPointsSamples": {
+        "rewards": {
+            "badge": "Reward Store Sample",
+            "title": "Reward Store: high-value motivation with low cost",
+            "subtitle": "Make rewards redeemable, predictable, and sustainable with budget, frequency, and cooldown.",
+            "principles": {
+                "title": "3 Principles",
+                "b1": "Redeemable: avoid trust loss from random promises",
+                "b2": "Sustainable: decide budget and frequency first",
+                "b3": "Negotiable: let the child participate in choosing"
+            },
+            "budget": {
+                "title": "Budget Tiers (Sample)",
+                "subtitle": "Not more expensive—more sustainable and realistic for your family.",
+                "low": { "title": "Low", "desc": "Ice cream / stickers / +15 min free time" },
+                "mid": { "title": "Mid", "desc": "Pizza Hut / a blind box / weekend activity choice" },
+                "high": { "title": "High ritual", "desc": "Amusement park / family trip / a dedicated day" }
+            },
+            "catalog": {
+                "title": "Four Quadrants (Sample Catalog)",
+                "subtitle": "Keep 2–5 options per quadrant to avoid motivation fatigue.",
+                "hint": "Fully editable for your family",
+                "q1": { "tag": "Experience", "title": "Experience & ritual", "desc": "Prefer shared experiences over pure material刺激.", "i1": "Amusement park / themed outdoor day", "i2": "Movie night (child chooses)", "i3": "Special dinner (child participates)" },
+                "q2": { "tag": "Physical", "title": "Small but concrete", "desc": "Clear exchange with explicit caps.", "i1": "A blind box (monthly cap)", "i2": "A favorite book/comic", "i3": "Small building kit/sticker set" },
+                "q3": { "tag": "Privilege", "title": "Choice rights & autonomy", "desc": "Use choice to build self-determination.", "i1": "Extra screen time (cooldown)", "i2": "Child plans one weekend activity", "i3": "Child decides dinner menu once" },
+                "q4": { "tag": "Relationship", "title": "Bonding rewards", "desc": "Often more stable with controlled cost.", "i1": "1:1 dedicated 30 minutes", "i2": "Build a small project together", "i3": "Complete a family co-op task" }
+            },
+            "ctaBack": "Back to Product",
+            "ctaPricing": "Engagement & pricing"
+        },
+        "report": {
+            "badge": "Report Sample",
+            "title": "Weekly Growth Report: from records to review and action",
+            "subtitle": "Fixed structure: what happened → why → what’s next. Supports a 5-minute weekly family review.",
+            "card": {
+                "title": "Weekly Report (Sample)",
+                "badge": "Auto-generated · Shareable",
+                "kpis": { "title": "Key Metrics", "i1": "Completion: 82%", "i2": "Streak: 5 days", "i3": "Net points: +38" },
+                "highlights": { "title": "Highlights & Friction", "i1": "Highlight: reading streak 4 days", "i2": "Highlight: bedtime tidy improved", "i3": "Friction: bedtime delay (tune rules)" },
+                "next": { "title": "Next-week Actions", "i1": "Split bedtime into 2 smaller tasks and tune points", "i2": "Use one waiver card as a cooling valve", "i3": "Let the child help pick the reward list weekly" }
+            },
+            "weeklyMeeting": {
+                "badge": "Weekly Review Mode",
+                "title": "5-minute review template",
+                "subtitle": "Make review a rhythm, not a fight.",
+                "i1": "3 highlights",
+                "i2": "1 friction point",
+                "i3": "1 rule tweak",
+                "i4": "1 next-week goal"
+            },
+            "whyWorks": {
+                "title": "Why it works",
+                "b1": "One shared rule language improves collaboration",
+                "b2": "Trends reduce emotional arguments",
+                "b3": "Suggestions bind to actions you can actually do",
+                "note": "Sample is for structure illustration only—no diagnosis or guarantees."
+            },
+            "ctaBack": "Back to Product",
+            "ctaPricing": "Engagement & pricing"
+        }
+    },
+    "smartReadPage": {
+        "hero": {
+            "badge": "Retrieval & QA demo",
+            "title": "Content knowledge base & chat retrieval",
+            "subtitle": "Capture, structure, and query content via chat. A demo for building reviewable knowledge loops.",
+            "cta1": "Get a proposal",
+            "cta2": "Learn More"
+        },
+        "features": {
+            "title": "Key Features",
+            "subtitle": "Conquer information overload, build your knowledge system",
+            "collect": {
+                "title": "Multi-source Collection",
+                "desc": "Forward articles or links to our service account for instant saving. PDF upload supported."
+            },
+            "summary": {
+                "title": "AI Deep Processing",
+                "desc": "AI auto-generates one-line summaries, key tags, and mind map outlines."
+            },
+            "connect": {
+                "title": "Knowledge Linking",
+                "desc": "AI finds connections to articles you've saved before, building your knowledge graph."
+            },
+            "chat": {
+                "title": "Chat-based Retrieval",
+                "desc": "Search your knowledge via natural language: 'What was that K8s article about from last week?'"
+            }
+        },
+        "status": {
+            "title": "Product Status",
+            "badge": "✨ Stay Tuned",
+            "desc": "AI Smart Read is being carefully crafted and will launch as a WeChat Service Account + Mini Program. Built on our enterprise RAG engine. Stay tuned!"
+        }
+    },
+    "footer": {
+        "description": "Turn great content into digital products people come back to: restructure → productize → data loop.",
+        "solutions": "Services",
+        "contentRestructure": "Content restructuring",
+        "productizeDelivery": "Productization delivery",
+        "systemLoops": "Data & system loops",
+        "products": "Deliverable modules",
+        "productsHint": "Modular capability you can assemble into deliverables",
+        "showcaseLink": "See showcase projects",
+        "referenceLink": "See reference: Star-Points",
+        "smartRead": "Smart Read",
+        "bioPrism": "Bio-Prism",
+        "smartResume": "Smart Resume",
+        "kidStory": "Kid-Story",
+        "company": "Company",
+        "aboutUs": "About",
+        "caseStudies": "Case studies",
+        "pricing": "Engagement",
+        "contact": "Contact",
+        "feedback": "Feedback",
+        "privacy": "Privacy",
+        "rights": "© 2024 Arrislink. All Rights Reserved.",
+        "copyright": "All rights reserved."
+    }
+}
