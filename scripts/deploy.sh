@@ -15,9 +15,21 @@ if [ -d .git ]; then
 fi
 
 # 2. Database migrations (optional)
-if [ -f scripts/db-check.js ]; then
+if [ -f scripts/db-check.js ] && [ -n "$DB_HOST" ] && [ -n "$DB_USER" ] && [ -n "$DB_NAME" ]; then
     echo "🗄️  [Deploy] Running database migrations..."
-    bun run scripts/db-check.js || echo "⚠️ [Deploy] Migration failed, proceeding anyway..."
+    if command -v docker-compose >/dev/null 2>&1; then
+        if [ "${ALLOW_MIGRATION_FAILURE:-false}" = "true" ]; then
+            docker-compose run --rm --build web bun run scripts/db-check.js || echo "⚠️ [Deploy] Migration failed, proceeding anyway..."
+        else
+            docker-compose run --rm --build web bun run scripts/db-check.js
+        fi
+    else
+        if [ "${ALLOW_MIGRATION_FAILURE:-false}" = "true" ]; then
+            docker compose run --rm --build web bun run scripts/db-check.js || echo "⚠️ [Deploy] Migration failed, proceeding anyway..."
+        else
+            docker compose run --rm --build web bun run scripts/db-check.js
+        fi
+    fi
 fi
 
 # 3. Build and start services
@@ -25,7 +37,11 @@ fi
 # -d: Start containers in background
 # --remove-orphans: Remove containers for services not defined in the Compose file
 echo "🏗️  [Deploy] Building and starting services..."
-docker-compose up -d --build --remove-orphans
+if command -v docker-compose >/dev/null 2>&1; then
+    docker-compose up -d --build --remove-orphans
+else
+    docker compose up -d --build --remove-orphans
+fi
 
 # 3. Wait for health check (optional but recommended)
 echo "⏳ [Deploy] Waiting for service to be healthy..."
@@ -39,7 +55,11 @@ done
 
 if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
     echo "❌ [Deploy] Deployment timed out or service is unhealthy. Please check logs."
-    docker-compose logs --tail=50 web
+    if command -v docker-compose >/dev/null 2>&1; then
+        docker-compose logs --tail=50 web
+    else
+        docker compose logs --tail=50 web
+    fi
     exit 1
 fi
 
